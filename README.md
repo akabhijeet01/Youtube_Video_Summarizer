@@ -32,10 +32,4 @@ A pre-trained summarization model is applied (e.g., BART, T5).
 
 The final output is a human-readable summary of the video content.
 
-✅ Example
-python
-Copy
-Edit
-video_url = "https://www.youtube.com/watch?v=example"
-summary = summarize_youtube_video(video_url)
-print(summary)
+
